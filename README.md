@@ -2,7 +2,8 @@
 So, i'm a person who loves coding and get relax from this :sparkling_heart:
 
 ## My experience
-> When i was newbie of coding i was using a **Python** as main language :snake:    
+> When i was newbie of coding i was using a **Python** as main language :snake:   
+
 So, at the moment i have 2 years experience of coding at **JavaScript** `NodeJS especially`
 
 ## But what about communication?
